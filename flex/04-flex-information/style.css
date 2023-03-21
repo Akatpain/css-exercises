@@ -7,10 +7,11 @@ img {
   width: 100px;
   height: 100px;
   
+  
 }
 .text {
-  width: 150px;
-  text-align: center;
+  max-width: 150px;
+  
 }
 .title {
   font-size: 36px;
