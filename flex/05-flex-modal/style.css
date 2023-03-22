@@ -78,3 +78,10 @@ button.cancel {
   color: black;
   font-size: 1.5rem;
 }
+.text{
+  display: flex;
+  padding: 0 0 0 4rem;
+}
+.context{
+  padding: 0 0 0 4rem;
+}
