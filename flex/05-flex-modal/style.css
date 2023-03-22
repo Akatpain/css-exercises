@@ -61,16 +61,12 @@ button.continue {
   background: royalblue;
   border: 1px solid royalblue;
   color: white;
-  display: flex;
-
-
 }
 
 button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
-
 }
 .todo{
   display: flex;
@@ -81,12 +77,4 @@ button.cancel {
   gap: 1rem;
   color: black;
   font-size: 1.5rem;
-  text-decoration: bold;
-}
-.context{
-  display: flex;
-  justify-content: space-around;
-  flex-direction: row;
-  padding: 4rem;
-  align-items: center;
 }
