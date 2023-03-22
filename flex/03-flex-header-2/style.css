@@ -56,3 +56,17 @@ ul {
   padding: 0;
   gap: 10px;
 }
+.derecha{
+  display: flex;
+  margin: 0;
+  padding: 8px;
+  gap: 1rem;
+}
+
+.izquierda{
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 8px;
+  gap: 1rem;
+}  
